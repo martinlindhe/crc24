@@ -1,5 +1,3 @@
-[![Travis-CI](https://api.travis-ci.org/martinlindhe/crc24.svg)](https://travis-ci.org/martinlindhe/crc24)
-[![codecov.io](https://codecov.io/github/martinlindhe/crc24/coverage.svg?branch=master)](https://codecov.io/github/martinlindhe/crc24?branch=master)
 [![GoDoc](https://godoc.org/github.com/martinlindhe/crc24?status.svg)](https://godoc.org/github.com/martinlindhe/crc24)
 
 
